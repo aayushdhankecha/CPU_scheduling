@@ -1,7 +1,4 @@
 // 2CS403 Operating System
-// Group Members:
-// 21BCE032 Harsh Boghara
-// 21BCE053 Aayush Dhankecha
 
 #include <stdio.h>
 #include <stdlib.h>
